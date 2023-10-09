@@ -48,6 +48,7 @@ a{
     color: white;
 }
 .footer{
+margin-bottom: auto;
 height: 50px;
 margin-top: 5%;
 flex: auto;
